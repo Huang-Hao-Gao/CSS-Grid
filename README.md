@@ -7,10 +7,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,12 +23,6 @@ Users should be able to:
 ### Screenshot
 
 ![Here is a screenshot of my project](./images/screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 
 ### Built with
 
